@@ -4,7 +4,7 @@ Files for honeygochildcare.com.
 
 ## Authors
 
-* **Erin Ruby** - *Initial work* - [PurpleBooth](https://github.com/ecasserly)
+* **Erin Ruby** - *Initial work* - [Erin Ruby](https://github.com/ecasserly)
 
 ## License
 
